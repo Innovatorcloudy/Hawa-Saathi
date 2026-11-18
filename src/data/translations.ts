@@ -1,0 +1,83 @@
+export const TRANSLATIONS = {
+  en: {
+    appTitle: 'Hawa Saathi',
+    appSubtitle: 'AI Winter Smog & Urban Clean Air Companion',
+    grapAlert: 'Emergency Smog Advisory Active',
+    selectCity: 'Select Hyperlocal Station',
+    vulnerabilityBadge: 'Vulnerability Profile',
+    editProfile: 'Edit Household Profile',
+    tabs: {
+      dashboard: 'Smog Radar',
+      routine: 'AI Routine Shield',
+      indoorStudio: 'IAQ Hacks & DIY Purifier',
+      impact: 'Direct Impact Tracker',
+      community: 'Community Shield'
+    },
+    aqiLabel: 'Current Air Quality Index',
+    pm25Label: 'PM2.5 Concentration',
+    pm10Label: 'PM10 Coarse Dust',
+    inversionLabel: 'Temperature Inversion',
+    ventilationTitle: 'Solar Thermal Ventilation Window',
+    safestWindowNotice: 'Ground smog slightly lifts during peak afternoon sun. Safest 30-min window for fresh air exchange.',
+    hourlyTrend: '24-Hour Smog Progression & Safe Windows',
+    aiAssistantPill: 'Ask Hawa Saathi AI',
+    apiKeyBtn: 'Gemini AI Engine Settings',
+    familyConfigModalTitle: 'Configure Household Vulnerability Matrix',
+    saveProfile: 'Save Profile & Recalculate AI Shield',
+    disclaimer: 'Hawa Saathi provides environmental hygiene guidance and preventive routines based on WHO/CPCB standards. Always consult a licensed pulmonologist for clinical emergencies.'
+  },
+  hi: {
+    appTitle: 'हवा साथी',
+    appSubtitle: 'सर्दियों के स्मॉग और वायु प्रदूषण से सुरक्षा हेतु AI साथी',
+    grapAlert: 'आपातकालीन स्मॉग एडवाइजरी सक्रिय',
+    selectCity: 'इलाका चुनें',
+    vulnerabilityBadge: 'परिवार का स्वास्थ्य प्रोफ़ाइल',
+    editProfile: 'परिवार का विवरण बदलें',
+    tabs: {
+      dashboard: 'स्मॉग रडार',
+      routine: 'AI दिनचर्या शील्ड',
+      indoorStudio: 'घरेलू उपाय व DIY प्यूरीफायर',
+      impact: 'पर्यावरण बचत मीटर',
+      community: 'कम्युनिटी शील्ड'
+    },
+    aqiLabel: 'वर्तमान एयर क्वालिटी इंडेक्स (AQI)',
+    pm25Label: 'PM2.5 सूक्ष्म कण',
+    pm10Label: 'PM10 धूल के कण',
+    inversionLabel: 'तापमान इनवर्जन स्तर',
+    ventilationTitle: 'दोपहर का सुरक्षित वेंटिलेशन समय',
+    safestWindowNotice: 'दोपहर में धूप निकलने से सतही धुआं थोड़ा ऊपर उठता है। घर की हवा बदलने का सर्वोत्तम 30 मिनट का समय।',
+    hourlyTrend: '24-घंटे का स्मॉग पूर्वानुमान व सुरक्षित समय',
+    aiAssistantPill: 'हवा साथी AI से पूछें',
+    apiKeyBtn: 'Gemini AI सेटिंग्स',
+    familyConfigModalTitle: 'पारिवारिक स्वास्थ्य संवेदनशीलता सेटिंग्स',
+    saveProfile: 'सेव करें और AI सुझाव अपडेट करें',
+    disclaimer: 'हवा साथी CPCB और WHO मानकों पर आधारित जीवनशैली व सुरक्षा उपाय सुझाता है। गंभीर स्वास्थ्य समस्या पर डॉक्टर से संपर्क करें।'
+  },
+  hinglish: {
+    appTitle: 'Hawa Saathi',
+    appSubtitle: 'Winter Smog & Clean Air AI Companion for Families',
+    grapAlert: 'Emergency Smog Advisory Active',
+    selectCity: 'Select Locality / Station',
+    vulnerabilityBadge: 'Family Risk Profile',
+    editProfile: 'Edit Household Profile',
+    tabs: {
+      dashboard: 'Smog Radar',
+      routine: 'AI Routine Shield',
+      indoorStudio: 'IAQ Hacks & DIY Purifier',
+      impact: 'Direct Impact Tracker',
+      community: 'Community Shield'
+    },
+    aqiLabel: 'Live Air Quality Index',
+    pm25Label: 'PM2.5 Microscopic Particles',
+    pm10Label: 'PM10 Coarse Dust',
+    inversionLabel: 'Temperature Inversion Cap',
+    ventilationTitle: 'Safest Ventilation Window',
+    safestWindowNotice: 'Dopahar me dhoop aane par smog thoda upar uthta hai. Safe window to ventilate room for 20-30 mins.',
+    hourlyTrend: '24-Hour Smog Trend & Safe Time Slots',
+    aiAssistantPill: 'Chat with Hawa Saathi AI',
+    apiKeyBtn: 'Gemini AI Settings',
+    familyConfigModalTitle: 'Family Vulnerability Matrix',
+    saveProfile: 'Save Profile & Update AI Shield',
+    disclaimer: 'Hawa Saathi provides environmental hygiene guidance based on WHO/CPCB guidelines. Consult a doctor for medical emergencies.'
+  }
+};
